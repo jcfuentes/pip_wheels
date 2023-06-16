@@ -1,3 +1,6 @@
+rd /s /q .\p310\
+rd /s /q .\p311\
+
 C:\Users\q409987\AppData\Local\Programs\Python\Python310\python.exe -m pip wheel --wheel-dir .\p310\ -r .\requirements_310.txt
 C:\Users\q409987\AppData\Local\Programs\Python\Python310\python.exe -m pip wheel --wheel-dir .\p311\ -r .\requirements_311.txt
 
